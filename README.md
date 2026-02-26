@@ -19,7 +19,7 @@ Inspired by emerging platform safety tools (like TikTok's AI flags), VibeVerify 
 
 **Live Demo:** [vibe-verify-ai.vercel.app](https://vibe-verify-ai.vercel.app)  
 **GitHub Repo:** [github.com/saaga23/vibe-verify-ai](https://github.com/saaga23/vibe-verify-ai)  
-**Demo Video:** [YouTube Link or Devpost Embed]  <[!-- Add your video link here --](https://www.youtube.com/watch?v=TE9P4sk85qY)>
+**Demo Video:** [YouTube Link or Devpost Embed](https://www.youtube.com/watch?v=TE9P4sk85qY)
 
 
 
