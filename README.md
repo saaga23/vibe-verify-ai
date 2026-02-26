@@ -21,7 +21,7 @@ Inspired by emerging platform safety tools (like TikTok's AI flags), VibeVerify 
 **GitHub Repo:** [github.com/saaga23/vibe-verify-ai](https://github.com/saaga23/vibe-verify-ai)  
 **Demo Video:** [YouTube Link or Devpost Embed]  <!-- Add your video link here -->
 
-**Prizes Targeted:** 1st Place ($3,000 cash + goodies) – Perfect match for AI innovation solving real-world problems.
+
 
 ## Problem & Relevance
 
